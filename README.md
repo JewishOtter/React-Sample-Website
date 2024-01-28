@@ -1,2 +1,2 @@
 # React-Sample-Website
-Sample React website for portfolio
+Sample React website for portfolio - Work in progress.
